@@ -1,0 +1,3161 @@
+{
+  "Customer Profile And Contact Data": {
+    "Online Account": {
+      "email address": "user@example.com",
+      "surname": "Smith",
+      "first name": "Alex",
+      "marketing preferences": {
+        "consent status": "OptedIn",
+        "consent timestamp": "2024-03-15T09:23:45Z"
+      },
+      "phone number": {
+        "day telephone": [
+          "07700900000"
+        ],
+        "evening telephone": [
+          "07700900000"
+        ],
+        "mobile telephone": [
+          "07700900000"
+        ]
+      },
+      "middle name": "",
+      "title": "Mr",
+      "postal address": [
+        {
+          "address": "123 Example Street, London",
+          "postcode": "SW1A 1AA"
+        }
+      ],
+      "registered clubcard": "634001 **** **** 1234"
+    },
+    "Clubcard Accounts": {
+      "email address": "user@example.com",
+      "dob": "1990-05-15",
+      "user mail status": "Mailable",
+      "surname": "Smith",
+      "sex": "M",
+      "first name": "Alex",
+      "preferences": [
+        "Diabetic:OptOut",
+        "Kosher:OptOut",
+        "Halal:OptOut",
+        "Vegetarian:OptOut",
+        "Teetotal:OptOut",
+        "E-Mail Contact:OptIn",
+        "Mobile/SMS:OptIn",
+        "Post Contact:OptOut",
+        "Post Large Print:OptOut",
+        "Bonus Coupon Mailing:OptIn"
+      ],
+      "phone number": {
+        "day telephone": "07700900000",
+        "evening telephone": "07700900000",
+        "mobile telephone": "07700900000"
+      },
+      "no of household members": 1,
+      "middle name": "",
+      "title": "Mr",
+      "marketing consents": [
+        "Tesco Products:OptIn",
+        "Tesco Partners:OptIn"
+      ],
+      "postal address": {
+        "address line 3": "LONDON",
+        "address line 5": "",
+        "address line 4": "LONDON",
+        "postcode": "SW1A 1AA",
+        "address line 1": "123 Example Street",
+        "address line 2": ""
+      },
+      "user status": "Active",
+      "registered clubcard": [
+        "6340011234567890"
+      ]
+    },
+    "Marketing Preferences": {
+      "preference": [
+        "(UK)GHSProductsandServices:ContactMe",
+        "CouponIssued:ContactMe"
+      ],
+      "email address": [
+        "user@example.com"
+      ]
+    }
+  },
+  "Purchase": [
+    [
+      {
+        "basketValueGross": "18.65",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.20",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "17.45"
+          }
+        ],
+        "timeStamp": "2025-01-11 00:00:00",
+        "basketValueNet": "17.45",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "25.50",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.99",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "24.51"
+          }
+        ],
+        "timeStamp": "2025-01-17 00:00:00",
+        "basketValueNet": "24.51",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "26.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.96",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Contactless",
+            "amount": "25.79"
+          }
+        ],
+        "timeStamp": "2025-01-23 00:00:00",
+        "basketValueNet": "25.79",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "29.50",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.20",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "29.30"
+          }
+        ],
+        "timeStamp": "2025-01-25 00:00:00",
+        "basketValueNet": "29.30",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "14.00",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.40",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "12.60"
+          }
+        ],
+        "timeStamp": "2025-01-29 00:00:00",
+        "basketValueNet": "12.60",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "27.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.46",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "27.24"
+          }
+        ],
+        "timeStamp": "2025-02-05 00:00:00",
+        "basketValueNet": "27.24",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "16.90",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.61",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "16.29"
+          }
+        ],
+        "timeStamp": "2025-02-09 00:00:00",
+        "basketValueNet": "16.29",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "37.30",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.86",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Contactless",
+            "amount": "35.44"
+          }
+        ],
+        "timeStamp": "2025-02-10 00:00:00",
+        "basketValueNet": "35.44",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "25.60",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.47",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "24.13"
+          }
+        ],
+        "timeStamp": "2025-02-15 00:00:00",
+        "basketValueNet": "24.13",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "15.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.28",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "14.92"
+          }
+        ],
+        "timeStamp": "2025-02-21 00:00:00",
+        "basketValueNet": "14.92",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "8.40",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.73",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "7.67"
+          }
+        ],
+        "timeStamp": "2025-02-24 00:00:00",
+        "basketValueNet": "7.67",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "20.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.27",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "19.48"
+          }
+        ],
+        "timeStamp": "2025-02-25 00:00:00",
+        "basketValueNet": "19.48",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "41.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.43",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "39.27"
+          }
+        ],
+        "timeStamp": "2025-03-03 00:00:00",
+        "basketValueNet": "39.27",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "12.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.14",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "12.61"
+          }
+        ],
+        "timeStamp": "2025-03-10 00:00:00",
+        "basketValueNet": "12.61",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "17.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.40",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "16.80"
+          }
+        ],
+        "timeStamp": "2025-03-19 00:00:00",
+        "basketValueNet": "16.80",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "30.60",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.61",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Debit Card",
+            "amount": "29.99"
+          }
+        ],
+        "timeStamp": "2025-03-21 00:00:00",
+        "basketValueNet": "29.99",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "24.80",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.05",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "23.75"
+          }
+        ],
+        "timeStamp": "2025-03-29 00:00:00",
+        "basketValueNet": "23.75",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "37.65",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.30",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "35.35"
+          }
+        ],
+        "timeStamp": "2025-04-01 00:00:00",
+        "basketValueNet": "35.35",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "14.00",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.02",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "12.98"
+          }
+        ],
+        "timeStamp": "2025-04-13 00:00:00",
+        "basketValueNet": "12.98",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "16.30",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.18",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "15.12"
+          }
+        ],
+        "timeStamp": "2025-04-17 00:00:00",
+        "basketValueNet": "15.12",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "19.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.09",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Contactless",
+            "amount": "19.61"
+          }
+        ],
+        "timeStamp": "2025-04-19 00:00:00",
+        "basketValueNet": "19.61",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "21.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.17",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "20.53"
+          }
+        ],
+        "timeStamp": "2025-04-19 00:00:00",
+        "basketValueNet": "20.53",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "13.00",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.87",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Contactless",
+            "amount": "12.13"
+          }
+        ],
+        "timeStamp": "2025-04-19 00:00:00",
+        "basketValueNet": "12.13",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "30.35",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.96",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "28.39"
+          }
+        ],
+        "timeStamp": "2025-05-05 00:00:00",
+        "basketValueNet": "28.39",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "5.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.21",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "4.99"
+          }
+        ],
+        "timeStamp": "2025-05-11 00:00:00",
+        "basketValueNet": "4.99",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "41.40",
+        "purchaseType": "instore",
+        "overallBasketSavings": "3.83",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "37.57"
+          }
+        ],
+        "timeStamp": "2025-05-13 00:00:00",
+        "basketValueNet": "37.57",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "19.65",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.34",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "18.31"
+          }
+        ],
+        "timeStamp": "2025-05-21 00:00:00",
+        "basketValueNet": "18.31",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "19.65",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.74",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "18.91"
+          }
+        ],
+        "timeStamp": "2025-05-24 00:00:00",
+        "basketValueNet": "18.91",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "21.30",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.31",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "20.99"
+          }
+        ],
+        "timeStamp": "2025-06-05 00:00:00",
+        "basketValueNet": "20.99",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "19.80",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.70",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "19.10"
+          }
+        ],
+        "timeStamp": "2025-06-27 00:00:00",
+        "basketValueNet": "19.10",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "25.10",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.38",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "23.72"
+          }
+        ],
+        "timeStamp": "2025-07-12 00:00:00",
+        "basketValueNet": "23.72",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "6.50",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.53",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Debit Card",
+            "amount": "5.97"
+          }
+        ],
+        "timeStamp": "2025-07-15 00:00:00",
+        "basketValueNet": "5.97",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "36.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.97",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "33.78"
+          }
+        ],
+        "timeStamp": "2025-07-24 00:00:00",
+        "basketValueNet": "33.78",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "38.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.34",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "37.36"
+          }
+        ],
+        "timeStamp": "2025-07-25 00:00:00",
+        "basketValueNet": "37.36",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "32.30",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.16",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "32.14"
+          }
+        ],
+        "timeStamp": "2025-08-10 00:00:00",
+        "basketValueNet": "32.14",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "27.25",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.23",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "26.02"
+          }
+        ],
+        "timeStamp": "2025-08-12 00:00:00",
+        "basketValueNet": "26.02",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "32.35",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.54",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "30.81"
+          }
+        ],
+        "timeStamp": "2025-08-15 00:00:00",
+        "basketValueNet": "30.81",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "6.40",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.16",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "6.24"
+          }
+        ],
+        "timeStamp": "2025-08-21 00:00:00",
+        "basketValueNet": "6.24",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "20.25",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.44",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "18.81"
+          }
+        ],
+        "timeStamp": "2025-08-25 00:00:00",
+        "basketValueNet": "18.81",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "21.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.39",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Contactless",
+            "amount": "19.81"
+          }
+        ],
+        "timeStamp": "2025-09-09 00:00:00",
+        "basketValueNet": "19.81",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "11.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.70",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "10.50"
+          }
+        ],
+        "timeStamp": "2025-09-12 00:00:00",
+        "basketValueNet": "10.50",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "2.35",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.16",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "2.19"
+          }
+        ],
+        "timeStamp": "2025-09-20 00:00:00",
+        "basketValueNet": "2.19",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "22.30",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.25",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Contactless",
+            "amount": "21.05"
+          }
+        ],
+        "timeStamp": "2025-09-21 00:00:00",
+        "basketValueNet": "21.05",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "29.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.46",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "VISA_DEBIT",
+            "category": "Debit Card",
+            "amount": "28.24"
+          }
+        ],
+        "timeStamp": "2025-09-24 00:00:00",
+        "basketValueNet": "28.24",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Whole Milk 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.50",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "13.50",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.18",
+        "storeId": "6127",
+        "storeAddress": "25 Bedford Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "CONTACTLESS",
+            "category": "Debit Card",
+            "amount": "12.32"
+          }
+        ],
+        "timeStamp": "2025-09-29 00:00:00",
+        "basketValueNet": "12.32",
+        "says": "NA",
+        "storeName": "LONDON COVENT GARDEN METRO",
+        "storeFormat": "Metro",
+        "product": [
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "27.15",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.64",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Debit Card",
+            "amount": "24.51"
+          }
+        ],
+        "timeStamp": "2025-10-13 00:00:00",
+        "basketValueNet": "24.51",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Organic Broccoli Each",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest British Beef Mince 500G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "500",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "8.45",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.45",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "APPLE_PAY",
+            "category": "Debit Card",
+            "amount": "8.00"
+          }
+        ],
+        "timeStamp": "2025-10-14 00:00:00",
+        "basketValueNet": "8.00",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "34.10",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.54",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Debit Card",
+            "amount": "31.56"
+          }
+        ],
+        "timeStamp": "2025-10-21 00:00:00",
+        "basketValueNet": "31.56",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Chicken Thighs 640G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Chicken Breast Fillets 640G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "640",
+            "price": "5.75",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "8.90",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.71",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "8.19"
+          }
+        ],
+        "timeStamp": "2025-10-21 00:00:00",
+        "basketValueNet": "8.19",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Salted Butter 250G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "250",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "11.10",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.73",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Debit Card",
+            "amount": "10.37"
+          }
+        ],
+        "timeStamp": "2025-10-24 00:00:00",
+        "basketValueNet": "10.37",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco British Free Range Eggs Large 12 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Carrots 1Kg",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "1000",
+            "price": "0.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Warburtons Medium Sliced White Bread 800G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "800",
+            "price": "1.35",
+            "volumeInLitres": "NA"
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "Order": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}
