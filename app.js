@@ -241,15 +241,18 @@ function generateEmojiBarChart(spikeData, emoji = '🍷') {
     const maxCount = Math.max(...spikeData.map(d => d.count));
 
     return spikeData.map(data => {
-        const barHeight = maxCount > 0 ? (data.count / maxCount) * 100 : 0;
-        const emojiCount = Math.max(1, Math.ceil(data.count / 3)); // Scale emojis
-        const emojis = emoji.repeat(Math.min(emojiCount, 10)); // Cap at 10 emojis for vertical
+        // Calculate bar height - use actual 0 for empty bars
+        const barHeight = maxCount > 0 && data.count > 0 ? (data.count / maxCount) * 100 : 0;
+
+        // Only show emojis and content if count > 0
+        const emojiCount = data.count > 0 ? Math.ceil(data.count / 3) : 0;
+        const emojis = emojiCount > 0 ? emoji.repeat(Math.min(emojiCount, 10)) : '';
 
         return `
             <div class="emoji-bar-column">
-                <div class="emoji-bar-content" style="height: ${barHeight}%">
-                    <span class="emoji-count">${data.count > 0 ? data.count : ''}</span>
-                    <div class="emoji-icons">${data.count > 0 ? emojis : ''}</div>
+                <div class="emoji-bar-content ${data.count === 0 ? 'empty' : ''}" style="height: ${barHeight}%">
+                    ${data.count > 0 ? `<span class="emoji-count">${data.count}</span>` : ''}
+                    ${data.count > 0 ? `<div class="emoji-icons">${emojis}</div>` : ''}
                 </div>
                 <span class="emoji-bar-label">${data.month.substring(0, 3)}</span>
             </div>
