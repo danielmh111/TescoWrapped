@@ -344,3 +344,147 @@ body {
         opacity: 0.5;
     }
 }
+
+/* Emoji Bar Chart Styles - Vertical Bars */
+.emoji-bar-chart {
+    width: 90%;
+    max-width: 900px;
+    height: 350px;
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    z-index: 1;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    gap: 8px;
+}
+
+.emoji-bar-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    opacity: 0;
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
+.emoji-bar-column:nth-child(1) { animation-delay: 0.1s; }
+.emoji-bar-column:nth-child(2) { animation-delay: 0.15s; }
+.emoji-bar-column:nth-child(3) { animation-delay: 0.2s; }
+.emoji-bar-column:nth-child(4) { animation-delay: 0.25s; }
+.emoji-bar-column:nth-child(5) { animation-delay: 0.3s; }
+.emoji-bar-column:nth-child(6) { animation-delay: 0.35s; }
+.emoji-bar-column:nth-child(7) { animation-delay: 0.4s; }
+.emoji-bar-column:nth-child(8) { animation-delay: 0.45s; }
+.emoji-bar-column:nth-child(9) { animation-delay: 0.5s; }
+.emoji-bar-column:nth-child(10) { animation-delay: 0.55s; }
+.emoji-bar-column:nth-child(11) { animation-delay: 0.6s; }
+.emoji-bar-column:nth-child(12) { animation-delay: 0.65s; }
+
+.emoji-bar-content {
+    width: 100%;
+    max-width: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    background: linear-gradient(to top, rgba(238, 37, 55, 0.4), rgba(238, 37, 55, 0.2));
+    border-radius: 8px 8px 0 0;
+    padding: 10px 5px;
+    transition: all 0.3s ease;
+    box-shadow: 0 -4px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+    min-height: 10px;
+}
+
+.emoji-bar-content:hover {
+    background: linear-gradient(to top, rgba(238, 37, 55, 0.6), rgba(238, 37, 55, 0.3));
+    transform: translateY(-5px);
+    box-shadow: 0 -6px 20px rgba(238, 37, 55, 0.4);
+}
+
+.emoji-icons {
+    font-size: 1.5rem;
+    line-height: 1.2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    margin-bottom: 5px;
+}
+
+.emoji-count {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 5px;
+}
+
+.emoji-bar-label {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.9);
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* Mobile Responsive for Emoji Bar Chart */
+@media (max-width: 768px) {
+    .emoji-bar-chart {
+        width: 95%;
+        height: 300px;
+        padding: 15px;
+        gap: 5px;
+    }
+
+    .emoji-bar-content {
+        max-width: 45px;
+        padding: 8px 3px;
+    }
+
+    .emoji-icons {
+        font-size: 1.2rem;
+    }
+
+    .emoji-count {
+        font-size: 0.75rem;
+    }
+
+    .emoji-bar-label {
+        font-size: 0.7rem;
+        margin-top: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    .emoji-bar-chart {
+        height: 250px;
+        gap: 3px;
+    }
+
+    .emoji-bar-content {
+        max-width: 35px;
+        padding: 6px 2px;
+    }
+
+    .emoji-icons {
+        font-size: 1rem;
+    }
+
+    .emoji-count {
+        font-size: 0.65rem;
+    }
+
+    .emoji-bar-label {
+        font-size: 0.6rem;
+        margin-top: 5px;
+    }
+}
