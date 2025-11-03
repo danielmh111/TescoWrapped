@@ -2,6 +2,39 @@
 
 let transactionData = null;
 
+// Background music control - loop first 8 seconds
+function initializeMusic() {
+    const audio = document.getElementById('backgroundMusic');
+    if (audio) {
+        audio.volume = 0.3; // Set volume to 30% for background music
+        
+        // Handle the looping of first 8 seconds
+        audio.addEventListener('timeupdate', function() {
+            if (audio.currentTime >= 8) {
+                audio.currentTime = 0; // Reset to start when reaching 8 seconds
+            }
+        });
+        
+        // Attempt to autoplay when page loads
+        // Note: Some browsers require user interaction before playing audio
+        audio.play().catch(error => {
+            console.log('Autoplay prevented. Music will start on first user interaction.');
+            
+            // Add click listener to start music on first interaction
+            document.addEventListener('click', function startMusic() {
+                audio.play();
+                document.removeEventListener('click', startMusic);
+            }, { once: true });
+            
+            // Also try on scroll
+            document.addEventListener('scroll', function startMusic() {
+                audio.play();
+                document.removeEventListener('scroll', startMusic);
+            }, { once: true });
+        });
+    }
+}
+
 // Load and process data
 async function loadData() {
     try {
@@ -347,4 +380,7 @@ function analyzeAndRender() {
 }
 
 // Initialize on page load
-window.addEventListener('DOMContentLoaded', loadData);
+window.addEventListener('DOMContentLoaded', () => {
+    initializeMusic();
+    loadData();
+});
