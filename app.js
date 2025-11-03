@@ -117,6 +117,9 @@ function analyzeData() {
     // Summer flavor (June-August)
     const summerProducts = {};
 
+    // Monthly product tracking for spike detection
+    const monthlyProductData = {}; // { productName: { 'January': count, 'February': count, ... } }
+
     purchases.forEach(p => {
         const date = new Date(p.timeStamp);
         const month = date.getMonth(); // 0-11
@@ -140,6 +143,17 @@ function analyzeData() {
                 summerProducts[name] = (summerProducts[name] || 0) + qty;
             });
         }
+
+        // Track all products by month
+        p.product.forEach(product => {
+            const name = product.name;
+            const qty = parseInt(product.quantity);
+
+            if (!monthlyProductData[name]) {
+                monthlyProductData[name] = {};
+            }
+            monthlyProductData[name][monthName] = (monthlyProductData[name][monthName] || 0) + qty;
+        });
     });
 
     const busiestMonth = Object.keys(monthFrequency).reduce((a, b) =>
@@ -183,6 +197,48 @@ function analyzeData() {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 5);
 
+    // Spike detection - find product with most abnormal monthly variation
+    let spikeProduct = null;
+    let spikeMonth = null;
+    let spikeData = null;
+    let maxVariation = 0;
+
+    const monthOrder = ['January', 'February', 'March', 'April', 'May', 'June',
+                       'July', 'August', 'September', 'October', 'November', 'December'];
+
+    Object.keys(monthlyProductData).forEach(productName => {
+        const monthlyData = monthlyProductData[productName];
+        const monthlyValues = monthOrder.map(m => monthlyData[m] || 0);
+        const totalCount = monthlyValues.reduce((a, b) => a + b, 0);
+
+        // Only consider products purchased at least 10 times total
+        if (totalCount < 10) return;
+
+        // Calculate standard deviation and mean
+        const mean = totalCount / monthlyValues.length;
+        const variance = monthlyValues.reduce((sum, val) => sum + Math.pow(val - mean, 2), 0) / monthlyValues.length;
+        const stdDev = Math.sqrt(variance);
+
+        // Coefficient of variation (higher = more variable/spikey)
+        const coefficientOfVariation = mean > 0 ? stdDev / mean : 0;
+
+        if (coefficientOfVariation > maxVariation) {
+            maxVariation = coefficientOfVariation;
+            spikeProduct = productName;
+
+            // Find the month with the highest count
+            const maxMonthValue = Math.max(...monthlyValues);
+            const maxMonthIndex = monthlyValues.indexOf(maxMonthValue);
+            spikeMonth = monthOrder[maxMonthIndex];
+
+            // Store monthly data
+            spikeData = monthOrder.map((month, index) => ({
+                month,
+                count: monthlyValues[index]
+            }));
+        }
+    });
+
     return {
         totalSpent,
         totalTrips,
@@ -204,8 +260,37 @@ function analyzeData() {
         nightOwlTrips,
         summerFlavor,
         summerFlavorCount,
+        spikeProduct,
+        spikeMonth,
+        spikeData,
         customerName: transactionData['Customer Profile And Contact Data']['Online Account']['first name']
     };
+}
+
+// Helper function to generate emoji bar chart HTML (vertical bars)
+function generateEmojiBarChart(spikeData, emoji = '🍷') {
+    if (!spikeData || spikeData.length === 0) return '';
+
+    const maxCount = Math.max(...spikeData.map(d => d.count));
+
+    return spikeData.map(data => {
+        // Calculate bar height - use actual 0 for empty bars
+        const barHeight = maxCount > 0 && data.count > 0 ? (data.count / maxCount) * 100 : 0;
+
+        // Only show emojis and content if count > 0
+        const emojiCount = data.count > 0 ? Math.ceil(data.count / 3) : 0;
+        const emojis = emojiCount > 0 ? emoji.repeat(Math.min(emojiCount, 10)) : '';
+
+        return `
+            <div class="emoji-bar-column">
+                <div class="emoji-bar-content ${data.count === 0 ? 'empty' : ''}" style="height: ${barHeight}%">
+                    ${data.count > 0 ? `<span class="emoji-count">${data.count}</span>` : ''}
+                    ${data.count > 0 ? `<div class="emoji-icons">${emojis}</div>` : ''}
+                </div>
+                <span class="emoji-bar-label">${data.month.substring(0, 3)}</span>
+            </div>
+        `;
+    }).join('');
 }
 
 // Generate cards with humorous Tesco-themed content
@@ -271,11 +356,26 @@ function generateCards(insights) {
         insights.summerFlavor ? {
             gradient: 'gradient-6',
             content: `
-                <h2 class="card-title">Your Flavor of the Summer</h2>
+                <h2 class="card-title">Your Flavor of the Summer 🍓</h2>
                 <p class="card-subtitle">${insights.summerFlavor}</p>
                 <div class="card-number">${insights.summerFlavorCount}×</div>
-                <p class="card-description">Hot girl summer? More like ${insights.summerFlavor.split(' ')[0]} summer ☀️</p>
+                <p class="card-description">Hot girl summer? More like strawberry summer ☀️</p>
                 <div class="bg-shape shape-1"></div>
+            `
+        } : null,
+        // Slide 6.5: Spike Product with Emoji Bar Chart
+        insights.spikeProduct ? {
+            gradient: 'gradient-11',
+            content: `
+                <h2 class="card-title">${insights.spikeMonth} Called...</h2>
+                <p class="card-subtitle">It wants its ${insights.spikeProduct.split(' ').slice(-2, -1)[0].toLowerCase()} back 🍾</p>
+                <div class="emoji-bar-chart">
+                    ${generateEmojiBarChart(insights.spikeData, '🍷')}
+                </div>
+                <p class="card-description" style="margin-top: 20px;">
+                    Someone was stocking up! ${insights.spikeData.find(d => d.month === insights.spikeMonth)?.count || 0} bottles in ${insights.spikeMonth} 🎉
+                </p>
+                <div class="bg-shape shape-2"></div>
             `
         } : null,
         // Slide 7: Chocolate Obsession

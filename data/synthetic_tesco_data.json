@@ -86,7 +86,7 @@
   "Purchase": [
     [
       {
-        "basketValueGross": "18.65",
+        "basketValueGross": "21.50",
         "purchaseType": "instore",
         "overallBasketSavings": "1.20",
         "storeId": "5121",
@@ -99,7 +99,7 @@
           }
         ],
         "timeStamp": "2025-01-11 00:00:00",
-        "basketValueNet": "17.45",
+        "basketValueNet": "20.20",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -143,11 +143,19 @@
             "weightInGrams": "NA",
             "price": "1.60",
             "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "25.50",
+        "basketValueGross": "28.35",
         "purchaseType": "instore",
         "overallBasketSavings": "0.99",
         "storeId": "5121",
@@ -160,7 +168,7 @@
           }
         ],
         "timeStamp": "2025-01-17 00:00:00",
-        "basketValueNet": "24.51",
+        "basketValueNet": "27.26",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -227,6 +235,14 @@
             "channel": "instore",
             "weightInGrams": "250",
             "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -309,7 +325,7 @@
         ]
       },
       {
-        "basketValueGross": "29.50",
+        "basketValueGross": "32.35",
         "purchaseType": "instore",
         "overallBasketSavings": "0.20",
         "storeId": "5121",
@@ -322,7 +338,7 @@
           }
         ],
         "timeStamp": "2025-01-25 00:00:00",
-        "basketValueNet": "29.30",
+        "basketValueNet": "32.05",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -373,6 +389,14 @@
             "channel": "instore",
             "weightInGrams": "640",
             "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -468,7 +492,7 @@
         ]
       },
       {
-        "basketValueGross": "16.90",
+        "basketValueGross": "19.75",
         "purchaseType": "instore",
         "overallBasketSavings": "0.61",
         "storeId": "5121",
@@ -481,7 +505,7 @@
           }
         ],
         "timeStamp": "2025-02-09 00:00:00",
-        "basketValueNet": "16.29",
+        "basketValueNet": "19.04",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -524,6 +548,14 @@
             "channel": "instore",
             "weightInGrams": "NA",
             "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -757,7 +789,7 @@
         ]
       },
       {
-        "basketValueGross": "20.75",
+        "basketValueGross": "23.60",
         "purchaseType": "instore",
         "overallBasketSavings": "1.27",
         "storeId": "6127",
@@ -770,7 +802,7 @@
           }
         ],
         "timeStamp": "2025-02-25 00:00:00",
-        "basketValueNet": "19.48",
+        "basketValueNet": "22.23",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -821,6 +853,14 @@
             "channel": "instore",
             "weightInGrams": "400",
             "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -977,7 +1017,7 @@
         ]
       },
       {
-        "basketValueGross": "30.60",
+        "basketValueGross": "37.75",
         "purchaseType": "instore",
         "overallBasketSavings": "0.61",
         "storeId": "6127",
@@ -990,7 +1030,7 @@
           }
         ],
         "timeStamp": "2025-03-21 00:00:00",
-        "basketValueNet": "29.99",
+        "basketValueNet": "36.99",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -1034,6 +1074,14 @@
             "weightInGrams": "330",
             "price": "2.00",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
           }
         ]
       },
@@ -1412,7 +1460,7 @@
         ]
       },
       {
-        "basketValueGross": "13.00",
+        "basketValueGross": "20.15",
         "purchaseType": "instore",
         "overallBasketSavings": "0.87",
         "storeId": "5247",
@@ -1425,7 +1473,7 @@
           }
         ],
         "timeStamp": "2025-04-19 00:00:00",
-        "basketValueNet": "12.13",
+        "basketValueNet": "19.13",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -1453,11 +1501,19 @@
             "weightInGrams": "NA",
             "price": "4.50",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
           }
         ]
       },
       {
-        "basketValueGross": "30.35",
+        "basketValueGross": "37.50",
         "purchaseType": "instore",
         "overallBasketSavings": "1.96",
         "storeId": "6127",
@@ -1470,7 +1526,7 @@
           }
         ],
         "timeStamp": "2025-05-05 00:00:00",
-        "basketValueNet": "28.39",
+        "basketValueNet": "35.39",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -1530,11 +1586,19 @@
             "weightInGrams": "NA",
             "price": "2.50",
             "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
           }
         ]
       },
       {
-        "basketValueGross": "5.20",
+        "basketValueGross": "8.05",
         "purchaseType": "instore",
         "overallBasketSavings": "0.21",
         "storeId": "6127",
@@ -1547,7 +1611,7 @@
           }
         ],
         "timeStamp": "2025-05-11 00:00:00",
-        "basketValueNet": "4.99",
+        "basketValueNet": "7.74",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -1574,6 +1638,14 @@
             "channel": "instore",
             "weightInGrams": "NA",
             "price": "1.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -1818,7 +1890,7 @@
         ]
       },
       {
-        "basketValueGross": "21.30",
+        "basketValueGross": "29.65",
         "purchaseType": "instore",
         "overallBasketSavings": "0.31",
         "storeId": "5247",
@@ -1831,7 +1903,7 @@
           }
         ],
         "timeStamp": "2025-06-05 00:00:00",
-        "basketValueNet": "20.99",
+        "basketValueNet": "29.24",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -1875,11 +1947,19 @@
             "weightInGrams": "640",
             "price": "5.75",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "3",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "19.80",
+        "basketValueGross": "28.15",
         "purchaseType": "instore",
         "overallBasketSavings": "0.70",
         "storeId": "5247",
@@ -1892,7 +1972,7 @@
           }
         ],
         "timeStamp": "2025-06-27 00:00:00",
-        "basketValueNet": "19.10",
+        "basketValueNet": "27.35",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -1936,11 +2016,19 @@
             "weightInGrams": "500",
             "price": "4.50",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "3",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "25.10",
+        "basketValueGross": "30.70",
         "purchaseType": "instore",
         "overallBasketSavings": "1.38",
         "storeId": "6127",
@@ -1953,7 +2041,7 @@
           }
         ],
         "timeStamp": "2025-07-12 00:00:00",
-        "basketValueNet": "23.72",
+        "basketValueNet": "29.22",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -1989,11 +2077,19 @@
             "weightInGrams": "NA",
             "price": "4.50",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "6.50",
+        "basketValueGross": "9.35",
         "purchaseType": "instore",
         "overallBasketSavings": "0.53",
         "storeId": "6127",
@@ -2006,7 +2102,7 @@
           }
         ],
         "timeStamp": "2025-07-15 00:00:00",
-        "basketValueNet": "5.97",
+        "basketValueNet": "8.72",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -2026,11 +2122,19 @@
             "weightInGrams": "640",
             "price": "4.50",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "36.75",
+        "basketValueGross": "42.35",
         "purchaseType": "instore",
         "overallBasketSavings": "2.97",
         "storeId": "5121",
@@ -2043,7 +2147,7 @@
           }
         ],
         "timeStamp": "2025-07-24 00:00:00",
-        "basketValueNet": "33.78",
+        "basketValueNet": "39.28",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -2111,11 +2215,19 @@
             "weightInGrams": "250",
             "price": "2.20",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "38.70",
+        "basketValueGross": "44.30",
         "purchaseType": "instore",
         "overallBasketSavings": "1.34",
         "storeId": "5121",
@@ -2128,7 +2240,7 @@
           }
         ],
         "timeStamp": "2025-07-25 00:00:00",
-        "basketValueNet": "37.36",
+        "basketValueNet": "42.86",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -2188,11 +2300,19 @@
             "weightInGrams": "640",
             "price": "4.50",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "32.30",
+        "basketValueGross": "40.65",
         "purchaseType": "instore",
         "overallBasketSavings": "0.16",
         "storeId": "5121",
@@ -2205,7 +2325,7 @@
           }
         ],
         "timeStamp": "2025-08-10 00:00:00",
-        "basketValueNet": "32.14",
+        "basketValueNet": "40.39",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -2273,11 +2393,19 @@
             "weightInGrams": "330",
             "price": "2.00",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "3",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "27.25",
+        "basketValueGross": "35.60",
         "purchaseType": "instore",
         "overallBasketSavings": "1.23",
         "storeId": "6127",
@@ -2290,7 +2418,7 @@
           }
         ],
         "timeStamp": "2025-08-12 00:00:00",
-        "basketValueNet": "26.02",
+        "basketValueNet": "34.27",
         "says": "NA",
         "storeName": "LONDON COVENT GARDEN METRO",
         "storeFormat": "Metro",
@@ -2349,6 +2477,14 @@
             "channel": "instore",
             "weightInGrams": "500",
             "price": "4.50",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "3",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
             "volumeInLitres": "NA"
           }
         ]
@@ -2407,7 +2543,7 @@
         ]
       },
       {
-        "basketValueGross": "6.40",
+        "basketValueGross": "12.00",
         "purchaseType": "instore",
         "overallBasketSavings": "0.16",
         "storeId": "5247",
@@ -2420,7 +2556,7 @@
           }
         ],
         "timeStamp": "2025-08-21 00:00:00",
-        "basketValueNet": "6.24",
+        "basketValueNet": "11.74",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -2448,11 +2584,19 @@
             "weightInGrams": "800",
             "price": "1.35",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "20.25",
+        "basketValueGross": "25.85",
         "purchaseType": "instore",
         "overallBasketSavings": "1.44",
         "storeId": "5247",
@@ -2465,7 +2609,7 @@
           }
         ],
         "timeStamp": "2025-08-25 00:00:00",
-        "basketValueNet": "18.81",
+        "basketValueNet": "24.31",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -2525,11 +2669,19 @@
             "weightInGrams": "1000",
             "price": "0.85",
             "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Strawberries 400G",
+            "quantity": "2",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.75",
+            "volumeInLitres": "NA"
           }
         ]
       },
       {
-        "basketValueGross": "21.20",
+        "basketValueGross": "28.35",
         "purchaseType": "instore",
         "overallBasketSavings": "1.39",
         "storeId": "5247",
@@ -2542,7 +2694,7 @@
           }
         ],
         "timeStamp": "2025-09-09 00:00:00",
-        "basketValueNet": "19.81",
+        "basketValueNet": "26.81",
         "says": "NA",
         "storeName": "LONDON CAMDEN EXP",
         "storeFormat": "Express",
@@ -2586,6 +2738,14 @@
             "weightInGrams": "NA",
             "price": "1.60",
             "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
           }
         ]
       },
@@ -2916,7 +3076,7 @@
         ]
       },
       {
-        "basketValueGross": "8.45",
+        "basketValueGross": "15.60",
         "purchaseType": "instore",
         "overallBasketSavings": "0.45",
         "storeId": "5121",
@@ -2929,7 +3089,7 @@
           }
         ],
         "timeStamp": "2025-10-14 00:00:00",
-        "basketValueNet": "8.00",
+        "basketValueNet": "15.00",
         "says": "NA",
         "storeName": "LONDON KENSINGTON EXT",
         "storeFormat": "Extra",
@@ -2957,6 +3117,14 @@
             "weightInGrams": "NA",
             "price": "1.60",
             "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
           }
         ]
       },
@@ -3140,6 +3308,978 @@
             "weightInGrams": "800",
             "price": "1.35",
             "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "32.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.60",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "32.00"
+          }
+        ],
+        "timeStamp": "2025-12-01 18:30:00",
+        "basketValueNet": "32.00",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "30.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.53",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "30.50"
+          }
+        ],
+        "timeStamp": "2025-12-05 19:00:00",
+        "basketValueNet": "30.50",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "30.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.53",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "30.50"
+          }
+        ],
+        "timeStamp": "2025-12-07 14:20:00",
+        "basketValueNet": "30.50",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "12.05",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.59",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "11.85"
+          }
+        ],
+        "timeStamp": "2025-12-10 17:45:00",
+        "basketValueNet": "11.85",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "20.40",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.01",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "20.20"
+          }
+        ],
+        "timeStamp": "2025-12-12 20:10:00",
+        "basketValueNet": "20.20",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "38.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.93",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "38.50"
+          }
+        ],
+        "timeStamp": "2025-12-14 16:30:00",
+        "basketValueNet": "38.50",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "11.90",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.58",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "11.70"
+          }
+        ],
+        "timeStamp": "2025-12-15 11:00:00",
+        "basketValueNet": "11.70",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "29.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.45",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "29.00"
+          }
+        ],
+        "timeStamp": "2025-12-17 19:30:00",
+        "basketValueNet": "29.00",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "29.50",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.47",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "29.30"
+          }
+        ],
+        "timeStamp": "2025-12-18 18:00:00",
+        "basketValueNet": "29.30",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "37.35",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.86",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "37.15"
+          }
+        ],
+        "timeStamp": "2025-12-19 20:45:00",
+        "basketValueNet": "37.15",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Fresh Milk Semi-Skimmed 2.27L",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "1.60",
+            "volumeInLitres": "2.27"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "43.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "2.18",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "43.55"
+          }
+        ],
+        "timeStamp": "2025-12-20 12:30:00",
+        "basketValueNet": "43.55",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco Finest Sourdough Bread 400G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "400",
+            "price": "2.20",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "29.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.45",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "29.00"
+          }
+        ],
+        "timeStamp": "2025-12-21 15:00:00",
+        "basketValueNet": "29.00",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "22.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.12",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "22.50"
+          }
+        ],
+        "timeStamp": "2025-12-22 17:20:00",
+        "basketValueNet": "22.50",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "35.90",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.79",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "35.70"
+          }
+        ],
+        "timeStamp": "2025-12-23 10:30:00",
+        "basketValueNet": "35.70",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "23.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.18",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "23.50"
+          }
+        ],
+        "timeStamp": "2025-12-23 18:45:00",
+        "basketValueNet": "23.50",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Champagne 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "15.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "34.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "1.73",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "34.50"
+          }
+        ],
+        "timeStamp": "2025-12-24 09:00:00",
+        "basketValueNet": "34.50",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "15.75",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.78",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "15.55"
+          }
+        ],
+        "timeStamp": "2025-12-24 16:30:00",
+        "basketValueNet": "15.55",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          },
+          {
+            "name": "Tesco British Free Range Eggs 6 Pack",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "2.85",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "7.20",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.35",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "7.00"
+          }
+        ],
+        "timeStamp": "2025-12-27 14:00:00",
+        "basketValueNet": "7.00",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "17.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.88",
+        "storeId": "5247",
+        "storeAddress": "117-125 Camden High Street,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "17.50"
+          }
+        ],
+        "timeStamp": "2025-12-29 19:00:00",
+        "basketValueNet": "17.50",
+        "says": "NA",
+        "storeName": "LONDON CAMDEN EXP",
+        "storeFormat": "Express",
+        "product": [
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Cherry Tomatoes 330G",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "330",
+            "price": "2.00",
+            "volumeInLitres": "NA"
+          }
+        ]
+      },
+      {
+        "basketValueGross": "15.70",
+        "purchaseType": "instore",
+        "overallBasketSavings": "0.78",
+        "storeId": "5121",
+        "storeAddress": "Cromwell Road,LONDON,GREATER LONDON",
+        "paymentType": [
+          {
+            "type": "MASTERCARD_DEBIT",
+            "category": "Contactless",
+            "amount": "15.50"
+          }
+        ],
+        "timeStamp": "2025-12-31 11:30:00",
+        "basketValueNet": "15.50",
+        "says": "NA",
+        "storeName": "LONDON KENSINGTON EXT",
+        "storeFormat": "Extra",
+        "product": [
+          {
+            "name": "Tesco Finest Prosecco 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "7.00",
+            "volumeInLitres": "0.75"
+          },
+          {
+            "name": "Tesco Finest Red Wine 75Cl",
+            "quantity": "1",
+            "channel": "instore",
+            "weightInGrams": "NA",
+            "price": "8.50",
+            "volumeInLitres": "0.75"
           }
         ]
       }
